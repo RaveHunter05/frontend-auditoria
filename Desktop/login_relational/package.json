@@ -1,0 +1,25 @@
+{
+  "name": "login_relational",
+  "version": "1.0.0",
+  "description": "Login created for future projects",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advanced-Ideas-Developers/login-template-relational.git"
+  },
+  "keywords": [
+    "login",
+    "node.js",
+    "express.js",
+    "javascript"
+  ],
+  "author": "RaveHunter05",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Advanced-Ideas-Developers/login-template-relational/issues"
+  },
+  "homepage": "https://github.com/Advanced-Ideas-Developers/login-template-relational#readme"
+}
